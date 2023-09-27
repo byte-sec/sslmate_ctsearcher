@@ -10,7 +10,8 @@ This Bash function simplifies the process of searching for SSL certificates asso
 
 **Usage**:
 ```bash
-sslmate_ctsearch "example.com"
+chmod +x sslmate_ctsearch.sh
+sslmate_ctsearch.sh "example.com"
 ```
 
 **Dependencies**:
